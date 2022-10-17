@@ -10,6 +10,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/geolocation": "^3.0.2",
+    "axios": "^0.26.0",
     "react": "18.1.0",
     "react-native": "0.70.3",
     "react-native-image-picker": "^4.10.0"
